@@ -1,3 +1,7 @@
+# USM Computer Science Coursework
+
+This is a record of all the repositories created which are for assignments or projects at the [School of Computer Sciences, Universiti Sains Malaysia](http://cs.usm.my).
+
 | Course | Description                                                                  | Links                                                                                                                | Language               |
 |--------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------|
 | CAT201 | Excel to CSV using Apache POI in a Docker Container                          | [GitHub](https://github.com/ynshung/Excel2CSV-poi)                                                                   | Java, PHP, Docker      |
