@@ -17,4 +17,4 @@ This is a record of all the repositories created which are for assignments or pr
 | CST435 | A simple example of running MPI program on Kubernetes | [GitHub](https://github.com/ynshung/mpi-kubernetes) | K8s, *MPI*, Python |
 
 ## Contact
-For further information, feel free to contact me at me@ynshung.com
+If you have any questions, free to contact me at me@ynshung.com or other social platforms (USM students welcomed!)
