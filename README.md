@@ -15,6 +15,8 @@ This is a record of all the repositories created which are for assignments or pr
 | CPC357 | Prolonged Sitting Monitoring using IoT | [GitHub](https://github.com/ynshung/prolonged-sitting-monitoring-iot) | C++, React.js, Node.js |
 | CST435 | A simple Hadoop Docker setup for running MapReduce | [GitHub](https://github.com/ynshung/hadoop-docker) | Docker, Python |
 | CST435 | A simple example of running MPI program on Kubernetes | [GitHub](https://github.com/ynshung/mpi-kubernetes) | K8s, *MPI*, Python |
+| CPT411 | Implementation of DFA to identify name of places | [GitHub](https://github.com/ynshung/place-finder-automata) • [Demo](https://placefinder-automata.streamlit.app) | Python, Streamlit |
+| CPC451 | Another Hadoop Docker setup for running MapReduce but in Java | [GitHub](https://github.com/ynshung/hadoop-wordcount) | Docker, Java |
 
 ## Contact
 If you have any questions, free to contact me at me@ynshung.com or other social platforms (USM students welcomed!)
